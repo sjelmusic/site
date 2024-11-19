@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>sjel. music for online souls</title>
+    <title>SJEL - music for the chronically online 🌐</title>
     <style>
         body {
             margin: 0;
@@ -24,13 +24,20 @@
         }
         h1 {
             margin-top: 20px;
-            font-size: 24px;
+            font-size: 36px;
+            font-weight: bold;
+            letter-spacing: 2px;
+        }
+        h2 {
+            margin-top: 10px;
+            font-size: 18px;
             font-weight: normal;
         }
     </style>
 </head>
 <body>
-    <img src="https://live.staticflickr.com/661/32005341150_907ffd2fa5_b.jpg" alt="Grey clouds">
-    <h1>sjel. music for online souls</h1>
+    <img src="https://images.unsplash.com/photo-1517816743773-6e0fd518b4a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080" alt="Sea of Clouds">
+    <h1>SJEL</h1>
+    <h2>music for the chronically online 🌐</h2>
 </body>
 </html>
